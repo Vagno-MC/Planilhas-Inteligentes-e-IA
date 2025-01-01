@@ -38,7 +38,6 @@ Projeto com o objetivo de gerar um dashboard em planilhas inteligentes e utiliza
 
 
 
-
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
