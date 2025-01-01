@@ -37,13 +37,12 @@ Criar um Dashboard em Planilhas Inteligentes
 Projeto com o objetivo de gerar um dashboard em planilhas inteligentes e utilizar ferramenta de IA para analise dos dados.
 
 
-
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+
+
+
 
 ## ✨ Como foi feito ?
 
