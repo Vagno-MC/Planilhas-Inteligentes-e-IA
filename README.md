@@ -34,7 +34,10 @@ Criar um Dashboard em Planilhas Inteligentes
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido para Criar um Dashboard em Planilhas Inteligentes
 
-Projeto com o objetivo de gerar um dashboar em planilhas inteligentes e utilizar ferramenta de IA para analise dos dados.
+Projeto com o objetivo de gerar um dashboard em planilhas inteligentes e utilizar ferramenta de IA para analise dos dados.
+
+
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
