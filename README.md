@@ -23,7 +23,7 @@ Criar um Dashboard em Planilhas Inteligentes
 </p>
 
 <p align="center">
-    preview do podcast
+   
 </p>
 
 <div align="center">
